@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, machine learning, data science.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on data science community.
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/abhay-sharma-99b00b212/
 
 <!---
 abhay2145/abhay2145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
